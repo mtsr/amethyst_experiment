@@ -1,0 +1,14 @@
+[package]
+name = "mygame"
+version = "0.1.0"
+authors = ["Jonas Matser <jonas@jonasmatser.nl>"]
+include = ["resources"]
+publish = false
+
+[dependencies.amethyst]
+git = "https://github.com/amethyst/amethyst"
+branch = "develop"
+
+[dependencies]
+cgmath = "*"
+
