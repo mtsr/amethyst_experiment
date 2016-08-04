@@ -1,8 +1,8 @@
 ---
-logging:
-    file_path: "new_project.log"
-    output_verbosity: medium
-    logging_verbosity: debug 
+# logging:
+#     file_path: "new_project.log"
+#     output_verbosity: medium
+#     logging_verbosity: debug 
 
 display_config: 
     dimensions: null
